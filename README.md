@@ -15,12 +15,12 @@ O desafio consiste em:
 ---
 
 ## 📁 Estrutura do Repositório
-📦 dashboard-vendas
-├── 📊 BaseDados.xlsx
-├── 📈 Dashboard.xlsx
-└── 📄 README.md
 
-
+| Estrutura |
+|--------|
+| [**BaseDados**](https://github.com/Luxyh/Dashboard-de-Vendas-do-Xbox-com-Excel/blob/main/BaseDados.xlsx) | 
+| [**Dashboard**](https://github.com/Luxyh/Dashboard-de-Vendas-do-Xbox-com-Excel/blob/main/Dashboard.xlsx) | 
+| [**README**](https://github.com/Luxyh/Dashboard-de-Vendas-do-Xbox-com-Excel/edit/main/README.md) | 
 
 
 ---
